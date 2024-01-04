@@ -5,8 +5,9 @@
     <classes>
       <class name="testclass.signIn_test">
         <methods>
+          <include name="verifyproduct"/>
           <include name="setup"/>
-          <include name="verifytest"/>
+          <include name="takeScreenshot"/>
         </methods>
       </class> <!-- testclass.signIn_test -->
     </classes>

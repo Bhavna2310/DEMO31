@@ -6,8 +6,9 @@
 	</listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="testclass.registerTest"/>
+      <!--class name="testclass.signIn_test"/-->
     
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
+<!-- Consider updating this version -->

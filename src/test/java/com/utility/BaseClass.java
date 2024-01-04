@@ -23,7 +23,7 @@ public AppiumDriverLocalService service;
 //public static ConfigDataProvider config;
 	public  static AndroidDriver driver;
 	public static TakesScreenshot ts;
-
+public static LibraryActionsClass action;
 	@BeforeClass
 	//@Test
 	public void setup () throws MalformedURLException {
